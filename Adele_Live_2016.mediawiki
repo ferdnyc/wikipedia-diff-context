@@ -602,8 +602,8 @@ This set list is representative of 29 February 2016 concert, in Belfast.<ref>{{c
 |[[Perth]]
 |rowspan="8"|Australia
 |[[Subiaco Oval|Domain Stadium]]
-| rowspan="11" {{n/a}}
-| rowspan="11" {{n/a}}
+| 68.000 / 68.000
+| $ -
 |-
 ! scope="row" style="text-align:center;" | 4 March 2017
 |rowspan="2"|[[Brisbane]]
