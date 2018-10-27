@@ -1,0 +1,554 @@
+ {{DISPLAYTITLE:List of ''Asia's Next Top Model'' contestants}}
+{{refimprove|date=May 2018}}
+This is a list of contestants who have appeared on the television show ''[[Asia's Next Top Model]]''. Thai model and current host [[Cindy Bishop]] (season [[Asia's Next Top Model (season 4)|4]]–present), together with a panel of experts, judge a number of aspiring models competing to win a modeling contract, along with other prizes.
+
+A total of six seasons have aired since the show first aired in November 25, 2012. A total of 86 contestants have been selected to compete in its six years running, with five models ([[Jessica Amornkuldilok]], [[Sheena Liam]], [[Ayu Gani]], [[Tawan Kedkong]], and [[Maureen Wroblewitz]]) having been crowned "Asia's Next Top Model".
+
+Contestants from all over the world of Asian descent are allowed to apply to be on the show through video-auditioning, and then a few chosen are invited to attend casting calls in [[Singapore]].<ref>[http://www.stylexstyle.com/community/blogs/the-truth-behind-asia-s-next-top-model.html "The Truth Behind Asia's Next Top Model"], by: Closet Chameleon, date: 2013-01-18.</ref>
+
+==Contestants==
+[[Image:Jodilly pendre.png|150px|thumb|[[Jodilly Pendre]], <br> ''AsNTM, [[Asia's Next Top Model (season 2)|season 2]]'']]
+[[Image:May Myat Noe.jpg|150px|thumb|[[May Myat Noe|May Htet Aung]], <br> ''AsNTM, [[Asia's Next Top Model (season 4)|season 4]]'']]
+
+{{legend|#B2FFAB|The contestant previously participated in an adaptation of a national ''[[Top Model]]'' franchise.|border=solid 1px #AAAAAA}}
+
+ {| class="wikitable sortable" style="text-align:center"
+|-
+!Country
+!Contestant
+!Age
+!Height
+!Finish
+!Season
+|-
+|{{flag|Singapore }}
+| Kyla Tan
+| 23
+| {{height|m=1.71}}
+| {{sort|14|14th}}
+| rowspan="14" |[[Asia's Next Top Model (season 1)|Season 1]] 
+|-
+|{{flag|Thailand}}
+| {{sortname|Monica|Benjaratjarunun|nolink=1}}
+| 19
+| {{height|m=1.70}}
+| {{sort|13|13th (quit)}}
+|-
+|{{flag|China}}
+| {{sortname|Bei Si|Liu|nolink=1}}
+| 24
+| {{height|m=1.76}}
+| {{sort|12|12th}}
+|-
+|{{flag|South Korea}}
+| Jee Choi 
+| 27
+| {{height|m=1.72}}
+| rowspan="2" | {{sort|10|11th/10th}}
+|-
+|{{flag|Indonesia}}
+| Filantropi Witoko
+| 24
+| {{height|m=1.75}}
+|- bgcolor="#B2FFAB"
+|{{flag|Vietnam}}
+| Thuy Trang Nguyen{{ref|1|1}}
+| 23
+| {{height|m=1.80}}
+| {{sort|09|9th}}
+|-
+| {{flag|India}}
+| {{sortname|Rachel|Erasmus|nolink=1}}
+| 22
+| {{height|m=1.67}}
+| {{sort|08|8th}}
+|-
+|{{flag|Malaysia}}
+| Melissa Th'ng 
+| 21
+|{{height|m=1.68}}
+| {{sort|07|7th}}
+|-
+|{{flag|Hong Kong}}
+| [[Helena Chan]]
+| 22
+| {{height|m=1.77}}
+| {{sort|06|6th}}
+|-
+|{{flag|Nepal}}
+| [[Aastha Pokharel]]
+| 20
+| {{height|m=1.77}}
+| {{sort|05|5th}}
+|-
+|{{flag|Japan}}
+| Sofia Wakabayashi
+| 24
+| {{height|m=1.83}}
+| {{sort|04|4th}}
+|- 
+|{{flag|Philippines}}
+| Stephanie Retuya
+| 23
+| {{height|m=1.76}}
+| rowspan="2" | {{sort|02|Runners-up}}
+|-
+|{{flag|Taiwan}}
+| Kate Ma
+| 22
+| {{height|m=1.75}}
+|- 
+|{{flag|Thailand}}
+| [[Jessica Amornkuldilok]] 
+| 26
+| {{height|m=1.77}}
+| {{sort|01|Winner}}
+|-
+|{{flag|China}}
+| Jessie Yang
+| 22
+| {{height|m=1.70}}
+| {{sort|16|16th}}
+| rowspan="16" |[[Asia's Next Top Model (season 2)|Season 2]] 
+|-
+|{{flag|Hong Kong}}
+| Elektra Yu 
+| 21
+| {{height|m=1.75}}
+| {{sort|16|15th}}
+|-
+|{{flag|Indonesia}}
+| {{sortname|Bona|Kometa|nolink=1}}
+| 27
+| {{height|m=1.79}}
+| {{sort|16|14th}}
+|-
+|{{flag|South Korea}}
+| {{sortname|Jihye|Moon|nolink=1}}
+| 20
+| {{height|m=1.81}}
+| 13th
+|-
+|{{flag|Vietnam}}
+| Nhu Thao Phan
+| 26
+| {{height|m=1.73}}
+| 12th
+|-
+|{{flag|Singapore}}
+| {{sortname|Poojaa|Gill|nolink=1}}
+| 22
+| {{height|m=1.70}}
+| 11th
+|-
+|{{flag|India}}
+| Sneha Ghosh
+| 23
+| {{height|m=1.75}}
+| rowspan="2" |10th/9th
+|-
+|{{flag|Indonesia}}
+| Janice Hermijanto
+| 21
+| {{height|m=1.74}}
+|-
+|{{flag|Thailand}}
+| Tia Taveepanichpan
+| 17
+| {{height|m=1.69}}
+| 8th
+|-
+|{{flag|Taiwan}}
+| Natalie Pickles
+| 25
+| {{height|m=1.70}}
+| 7th
+|-
+|{{flag|Malaysia}}
+| Josephine Tan
+| 23
+| {{height|m=1.73}}
+| 6th
+|-
+|{{flag|Singapore}}
+| Nicole Lee 
+| 25
+| {{height|m=1.75}}
+| 5th
+|-
+|{{flag|Japan}}
+| {{sortname|Marie|Nakagawa|nolink=1}}
+| 24
+| {{height|m=1.70}}
+| 4th
+|- 
+|{{flag|Philippines}}
+| [[Katarina Rodriguez]] 
+| 21
+| {{height|m=1.69}}
+| 3rd
+|- 
+|{{flag|Philippines}}
+| [[Jodilly Pendre]]
+| 20
+| {{height|m=1.78}}
+| Runner-up
+|-
+|{{flag|Malaysia}}
+|[[Sheena Liam]] 
+| 22
+| {{height|m=1.74}}
+| {{sort|01|Winner}}
+|-
+|{{flag|Malaysia}}
+| Shareeta Selvaraj
+| 24
+| {{height|m=1.68}}
+| 14th
+| rowspan="14" |[[Asia's Next Top Model (season 3)|Season 3]] 
+|-
+|{{flag|Thailand}}
+|Kiana Guyon
+|20
+| {{height|m=1.70}}
+| 13th
+|-
+|{{flag|Indonesia}}
+| Rani Ramadhany 
+| 20
+| {{height|m=1.73}} 
+| 12th
+|-
+|{{flag|Hong Kong}}
+| Lorretta Chow
+| 26
+| {{height|m=1.79}}
+| rowspan="2" |11th/10th
+|-
+|{{flag|Vietnam}}
+| Celine Duong 
+| 18
+| {{height|m=1.74}}
+|-
+|{{flag|Philippines}}
+| Franchesca Lagua 
+| 23
+| {{height|m=1.72}}
+| 9th
+|-
+|{{flag|Malaysia}}
+|  <!--Please do not re-link, Miss Universe's Melissa Tan is not the woman that appeared in this show. Same name, different people-->Melissa Tan
+| 27
+|{{height|m=1.73}} 
+| 8th
+|-
+|{{flag|Hong Kong}}
+| KB Barlow 
+| 25
+| {{height|m=1.71}}
+| 7th
+|-
+|{{flag|Indonesia}}
+| Tahlia Raji
+| 18
+| {{height|m=1.73}}
+| 6th
+|-
+|{{flag|Philippines}}
+| Amanda Chan
+|17
+| {{height|m=1.76}}
+| 5th 
+|-
+|{{flag|Japan}}
+| Barbara Katsuki
+| 27
+| {{height|m=1.73}}
+| 4th
+|- 
+|{{flag|Singapore}}
+| Aimee Cheng-Bradshaw 
+| 19
+| {{height|m=1.75}}
+| 3rd
+|- 
+|{{flag|Philippines}}
+| [[Monika Sta. Maria]]
+| 23
+|{{height|m=1.77}}
+| Runner-up
+|- 
+|{{flag|Indonesia}}
+|  [[Ayu Gani]] 
+| 23
+| {{height|m=1.73}}
+| {{sort|01|Winner}}
+|-
+|{{flag|Thailand}}
+| Maya Goldman 
+| 22
+|{{height|m=1.73}}
+| 14th
+| rowspan="14" |[[Asia's Next Top Model (season 4)|Season 4]] 
+|-
+|{{flag|Mongolia}}
+| Tugs Saruul
+| 24
+| {{height|m=1.80}}
+| 13th
+|- bgcolor="#B2FFAB"
+|{{flag|Vietnam}}
+|  Mai Ngo Quynh{{ref|2|2}}
+|20
+|{{height|m=1.73}}
+|12th
+|-
+|{{flag|Philippines}}
+| [[Gwen Ruais]]
+|25
+|{{height|m=1.80}}
+|11th
+|-
+|{{flag|Philippines}}
+| Alaiza Malinao
+| 21
+| {{height|m=1.73}}
+|10th (quit)
+|-
+|{{flag|Hong Kong}}
+|Jessica Lam
+|21
+|{{height|m=1.76}}
+|9th
+|-
+|{{flag|Indonesia}}
+|Aldilla Zahraa 
+|23
+|{{height|m=1.73}}
+|8th
+|-
+|{{flag|Myanmar}}
+|[[May Myat Noe|May Htet Aung]] 
+|17
+|{{height|m=1.75}}
+|7th
+|-
+|{{flag|Malaysia}}
+|Tuti Noor
+|24
+|{{height|m=1.75}}
+|6th
+|-
+|{{flag|Singapore}}
+|Angie Watkins
+|19
+|{{height|m=1.74}}
+|5th
+|-
+|{{flag|Philippines}}
+|Julian Flores
+|25
+|{{height|m=1.74}}
+|4th
+|- 
+|{{flag|South Korea}}
+|Sang In Kim
+|23
+|{{height|m=1.76}}
+| rowspan="2" |Runners-up
+|- 
+|{{flag|Indonesia}}
+|Patricia Gunawan
+|25
+|{{height|m=1.68}}
+|- 
+|{{flag|Thailand}}
+| [[Tawan Kedkong]] 
+|20
+|{{height|m=1.77}}
+| {{sort|01|Winner}}
+|-
+| {{flag|Philippines}}
+| Anjelica Santillan
+| 22
+|{{height|m=1.76}}
+| 14th
+| rowspan="14" |[[Asia's Next Top Model (season 5)|Season 5]] 
+|-
+| {{flag|Thailand}}
+| Heidi Grods
+| 25
+|{{height|m=1.78}}
+| 13th
+|-
+| {{flag|Philippines}}
+| Jennica Sanchez
+| 20
+|{{height|m=1.68}}
+| 12th
+|-
+| {{flag|Singapore}} 
+| Layla Ong
+| 20
+|{{height|m=1.75}}
+| 11th 
+|-
+| {{flag|Malaysia}}
+| Alicia Amin
+| 22
+| {{height|m=1.75}}
+| 10th
+|-
+| {{flag|Singapore}}
+| R Nametha
+| 18
+|{{height|m=1.78}}
+| 9th (dq)
+|-
+| {{flag|Indonesia}}
+| Valerie Krasnadewi
+| 24
+|{{height|m=1.72}}
+| rowspan="2" |8th/7th
+|-
+| {{flag|Thailand}}
+| Dorothy Petzold
+| 18
+|{{height|m=1.72}}
+|-
+| {{flag|Indonesia}}
+| Veronika Krasnasari 
+| 24
+| {{height|m=1.72}}
+| 6th 
+|-
+| {{flag|Taiwan}}
+| Cindy Chen
+| 19
+|{{height|m=1.78}}
+| 5th
+|-
+| {{flag|Indonesia}}
+| Clara Tan
+| 21
+|{{height|m=1.70}}
+| 4th
+|- 
+| {{flag|Vietnam}}
+| [[Minh Tu Nguyen]]
+| 25
+|{{height|m=1.78}}
+| rowspan="2"|Runners-up
+|- 
+| {{flag|Malaysia}}
+| Shikin Gomez
+| 24
+|{{height|m=1.77}}
+|- 
+| {{flag|Philippines}}
+| [[Maureen Wroblewitz]] 
+| 18
+|{{height|m=1.68}}
+| {{sort|01|Winner}}
+|-
+| {{flag|Thailand}}
+| Lena Saetiao
+| 20
+|{{height|m=1.73}}
+|rowspan="2"|14th/13th
+|rowspan="14"| [[Asia's Next Top Model (season 6)|Season 6]]  
+|-
+| {{flag|Hong Kong}}
+| Hody Yim
+| 24
+|{{height|m=1.70}}
+|-
+| {{flag|Japan}}
+| Sharnie Fenn
+| 21
+|{{height|m=1.73}}
+|12th
+|-
+| {{flag|Indonesia}}
+| Iko Bustomi
+| 22
+|{{height|m=1.74}}
+|11th
+|-
+| {{flag|Indonesia}}
+| Jesslyn Lim
+| 26
+|{{height|m=1.78}}
+|10th
+|-
+| {{flag|Malaysia}}
+| [[Rubini Sambanthan]]
+| 26
+|{{height|m=1.76}}
+|9th
+|-
+| {{flag|Singapore}}
+| Yi Han Si
+| 18
+|{{height|m=1.80}}
+|8th
+|-
+|{{flag|Philippines}}
+| Jachin Manere
+| 21
+|{{height|m=1.75}}
+|7th
+|-
+| {{flag|Vietnam}}
+| Thanh Vy Nguyen 
+| 23
+|{{height|m=1.68}}
+|6th
+|-
+| {{flag|Thailand}}
+| Pim Bubear
+| 24
+|{{height|m=1.74}}
+|5th
+|-
+| {{flag|Myanmar}}
+| Beauty Thet Thinn
+| 22
+|{{height|m=1.76}}
+|4th
+|-
+| bgcolor="#B2FFAB"|{{flag|Philippines}}
+| bgcolor="#B2FFAB"|Adela-Mae Marshall{{ref|3|3}}
+| bgcolor="#B2FFAB"|20
+| bgcolor="#B2FFAB"|{{height|m=1.73}}
+| Rowspan="3"|[[To be announced|TBA]]
+|-
+| {{flag|Thailand}}
+| Dana Slosar
+| 24
+|{{height|m=1.75}}
+|-
+| bgcolor="#B2FFAB"|{{flag|Taiwan}}
+| bgcolor="#B2FFAB"|Mia Sabathy{{ref|4|4}}
+| bgcolor="#B2FFAB"|24
+| bgcolor="#B2FFAB"|{{height|m=1.79}}
+|-
+|}
+
+===Crossovers===
+{{refbegin}}
+#{{note|1}} Thuy Trang Nguyen previously competed in the [[Vietnam's Next Top Model (cycle 2)|second season]] of ''Vietnam's Next Top Model'', where she placed 4th.
+#{{note|2}} Mai Ngo previously competed in the [[Vietnam's Next Top Model (cycle 4)|fourth season]] of ''Vietnam's Next Top Model'', where she placed 15th-18th.
+#{{note|3}} Adela-Mae Marshall previously competed in the [[Philippines' Next Top Model (cycle 2) |second season]] of ''Philippines' Next Top Model'', where she placed 2nd.
+#{{note|4}} Mia Sabathy previously competed in the [[Austria's Next Topmodel (cycle 7)|seventh season]] of ''Austria's Next Top Model'', where she placed 3rd.
+{{refend}}
+
+==References==
+{{reflist}}
+
+{{Asia's Next Top Model}}
+
+{{DEFAULTSORT:List Of Asia's Next Top Model Contestants}}
+[[Category:Lists of reality show participants|Asia's Next Top Model]]
+[[Category:Asia's Next Top Model]]
+[[Category:Top Model contestants| ]]
