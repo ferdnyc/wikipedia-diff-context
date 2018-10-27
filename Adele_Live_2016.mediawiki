@@ -1,0 +1,714 @@
+{{Distinguish | Adele Live|Adele Live in New York City}}
+{{pp-pc1|small=yes}}
+{{Use dmy dates|date=November 2015}}
+{{Infobox concert
+|image             = Adele_2015TourPoster.jpg
+|image_size        = 220px
+|border            = yes
+|image_caption     = Promotional poster for the tour
+|album             = ''[[25 (Adele album)|25]]''
+|start_date        = {{Start date|df=yes|2016|02|29}}
+|end_date          = {{End date|df=yes|2017|06|29}}
+|attendance        = 1.54 million
+|gross                 = $167.7 million (107 shows)<ref name="Bruce Springsteen, Beyoncé post top-grossing tours of 2016">{{cite web|url=http://www.latimes.com/entertainment/music/la-et-ms-bruce-springsteen-beyonce-top-tours-20161229-story,amp.html|title=Bruce Springsteen, Beyoncé post top-grossing tours of 2016|work=[[LA Times]]|accessdate=19 January 2017|date=19 January 2017|first=Randy|last=Lewis}}</ref>
+|last_tour         = [[Adele Live]] <br>(2011)
+|this_tour         = '''Adele Live 2016''' <br>(2016–17)
+|number_of_shows   = 51 in Europe<br/> 58 in North America<br/> 11 in Oceania<br/>  121 in total
+|concert_tour_name = Adele Live 2016
+|artist            = [[Adele]]
+|number_of_legs    = 4
+}}
+
+'''Adele Live 2016''' (titled as '''Adele Live 2017''' for the shows in 2017) was the third [[concert tour]] by British singer [[Adele]] in support of her third studio album, ''[[25 (Adele album)|25]]''. It began on 29 February 2016, in [[Belfast]], [[Northern Ireland]] at the [[SSE Arena, Belfast|SSE Arena]], continued throughout Western Europe, North America and Oceania. It was originally scheduled to conclude on 2 July 2017, in London, England, at [[Wembley Stadium]], however on 30 June Adele announced via social media that she had regretfully cancelled her final two performances upon medical advice due to vocal injuries. It is unlikely the performances will be postponed to a later date.<ref name="announcBilb">{{cite web|url=http://www.billboard.com/articles/columns/pop/6777820/adele-live-tour-2016|title=Adele Announces 2016 Tour|work=[[Billboard (magazine)|Billboard]]|accessdate=29 November 2015|date=26 November 2015|first=Adelle|last=Platon}}</ref><ref name="anncouncHP">{{cite news |url=http://www.huffingtonpost.co.uk/2015/11/26/adele-tour-live-dates-tickets-2016_n_8654710.html?ir=UK+Entertainment|title=Adele Tour: '25' Singer Announces European Live Shows For 2016|work=[[The Huffington Post]]|accessdate=29 November 2015|date=26 November 2015|first=Ashley|last=Percival}}</ref><ref name="announcBilbNA">{{cite web|url=http://www.billboard.com/articles/columns/pop/6806082/adele-2016-us-tour-dates-north-america|title=Adele Announces 2016 North American Tour, Her First in 5 Years|work=[[Billboard (magazine)|Billboard]]|accessdate=14 December 2015|date=14 December 2015}}</ref><ref name="variety.com">https://variety.com/2017/music/news/adele-cancels-shows-vocal-chord-damage-1202485261/</ref>
+
+== Background and commercial reception ==
+Adele announced the Western European headlining dates on 26 November 2015. After tickets went on sale on 4 December, many venues reported sell-outs, resulting in extra dates being added in multiple cities on the itinerary.<ref>{{cite web|url=http://www.billboard.com/articles/business/6784895/adele-tickets-security-stubhub-scalpers|title=Adele's Ticket Sales Strategy, Looking to Stop Scalpers, Draws Criticism (and a Lot of Fans)|publisher=}}</ref>
+
+Tickets sold out nearly instantaneously, with promoters for [[Glasgow]]'s [[SSE Hydro]] reporting tickets for the 13,000 venue sold out within two minutes. Due to the high demand, online queues were set up, which resulted in queues of over 50,000 people for venues only seating a quarter of that.<ref>{{cite web|url=https://www.mirror.co.uk/3am/celebrity-news/adele-2016-star-adds-eight-6952267|title=Adele adds eight dates to UK tour after tickets sell out in seconds|first=Katy|last=Forrester|date=4 December 2015|publisher=}}</ref>
+
+On 14 December 2015, Adele announced the North American leg of the tour. The leg included six nights at [[Madison Square Garden]]<ref name="announcLATimes">{{cite news |url=http://www.latimes.com/entertainment/music/posts/la-et-ms-adele-tour-2016-north-america-los-angeles-staples-20151214-story.html|title=Adele's 2016 North American tour will play 6 nights in L.A.|work=[[Los Angeles Times]]|accessdate=14 December 2015|date=14 December 2015}}</ref> and eight nights at [[Staples Center]]. Adele broke [[Taylor Swift]]'s five-show record for most consecutive sold-out shows at Staples Center.<ref>{{cite news |url=http://www.latimes.com/entertainment/music/la-et-ms-adele-staples-20160803-snap-story.html|title=Just how hyped are Adele's fans for her eight-night run at Staples Center?|work=[[Los Angeles Times]]|accessdate=14 August 2016|date=6 August 2016}}</ref>
+
+[[File:A panorama of ANZ Stadium during Adele's second Sydney show on March 11, 2017 (crop).jpg|thumb|upright=2.3|left|A panorama of [[Stadium Australia|ANZ Stadium]] during Adele's second Sydney show on March 11, 2017]]
+
+Ten million people tried to buy tickets to the North American leg of Adele's world tour. Only 750,000 tickets were available.<ref>{{cite news |url=http://www.nme.com/news/adele/90435|title=Ten million tried to buy tickets for Adele's American tour|work=[[TMZ]]|accessdate=14 August 2016|date=18 December 2015}}</ref>
+
+On 18 March 2016, Adele confirmed rumours that she would be headlining [[Glastonbury Festival]] 2016, on 25 June. She was the fourth solo female to perform a headline set at the festival, and the first on a Saturday. Adele confirmed the news live on stage at [[The O2 Arena|The O<sub>2</sub> Arena]], in London.<ref>Savage, Mark. [https://www.bbc.co.uk/news/entertainment-arts-35848943], ''[[BBC News]]'', London, 18 March 2016. Retrieved on 18 May 2016.</ref>
+
+In July 2016, [[Pollstar]] released its 2016 Mid Year Special featuring the top-grossing tours of the year so far. Adele was announced as the sixth highest-grossing worldwide act of 2016 so far, with ticket sales of $75.9 million and 709,498 tickets sold from the 49 shows of the European leg of her tour.<ref>{{cite web|url=http://www.pollstarpro.com/files/charts2016/2016MidYearTop100WorldwideTours.pdf|title=2016 Mid Year Top 100 Worldwide Tours|first=|last=|date=15 July 2016|publisher=Pollstar}}</ref><ref>{{cite web|url=http://www.pollstar.com/news_article.aspx?ID=825731|title=2016 Mid Year Special Features|first=|last=|date=15 July 2016|publisher=Pollstar}}</ref> Billboard reported that overall based on tickets sold through the first week of October 2016 the tour had sold in the $150 million range and that the total gross from the first 15 venues of the North American leg of tour was $67,599,098 with 601,195 tickets sold from 5 July to 7 October 2016.<ref>{{cite web|url=http://www.billboard.com/articles/columns/chart-beat/7549906/adele-world-tour-25-luke-bryan-beyonce|title=HOT TOURS - OCTOBER 18, 2016|first=|last=|date=21 October 2016|publisher=Billboard}}</ref>
+
+The tour's Australian dates were announced on 15 November 2016. Adele will perform a series of special stadium concerts in market's five big cities in February and March 2017.<ref>{{cite web|url=http://musicfeeds.com.au/news/adele-announces-2017-australian-tour-dates/|title=Adele Announces First Ever Australian Tour Dates - Music Feeds|date=15 November 2016|publisher=}}</ref> New Zealand show was announced on 18 November 2016.<ref>{{cite web|url=http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&amp;objectid=11747893|title=Pop sensation Adele is coming to New Zealand for one show only|date=18 November 2016|publisher=|via=New Zealand Herald}}</ref> Her first two shows in New Zealand sold out in record-breaking 23 minutes, and a third show was announced, with all tickets sold in under 30 minutes.<ref>{{cite web|url=http://www.newstalkzb.co.nz/on-air/larry-williams-drive/audio/tickets-for-third-adele-concert-sell-out/|title=Tickets for third Adele concert sell out|first=Newstalk ZB|last=staff|publisher=}}</ref> As of January 2017, over 600,000 tickets have been sold for the tour's Australian concerts.<ref>{{cite web|url=http://www.smh.com.au/entertainment/music/2017-a-year-painted-adele-20170123-gtxe1g.html|title=2017: a year painted Adele|date=26 January 2017|publisher=The Sydney Morning Herald}}</ref>
+
+According to [[StubHub]], a ticket resale site, the tour ranked the most popular concert tour of 2016.<ref>{{cite web|author=Rys, Dan|title=Adele, Justin Bieber Lead StubHub's Top Tours of 2016|url=http://www.billboard.com/articles/columns/pop/7625200/adele-justin-bieber-lead-stubhub-top-tours-2016|work=[[Billboard (magazine)|Billboard]]|date=15 December 2016|accessdate=16 December 2016}}</ref>
+
+Adele Live 2016 ranked at #5 on Pollstar's annual Year End Top Worldwide Tours chart with $167.7 million.<ref>{{cite web|url=http://pollstarpro.com/files/charts2016/011617top10.pdf|title=2016 Pollstar Year End Top 10 Worldwide Tours|work=Pollstar|date=31 December 2016|accessdate=3 January 2017}}</ref>
+
+Adele Live 2017 ranked at #30 on Pollstar's annual Year End Top Worldwide Tours chart with $59 million grossed and 600,000 tickets sold. <ref>https://www.pollstar.com/Chart/2018/01/2017YearEndTop100WorldwideTours_621.pdf</ref>
+
+Adele performed to her largest audience on tour both in terms of the amount in a single shows, as well as overall for one city, with her two concerts at [[Sydney|Sydney's]] [[Stadium Australia|ANZ Stadium]], which attracted 95,544 people per concert.<ref>{{cite web|author=McCabe, Kathy|title=Sydney makes singer Adele its Queen at her concert at ANZ Stadium|url=http://www.news.com.au/entertainment/music/tours/sydney-makes-singer-adele-its-queen-at-her-concert-at-anz-stadium/news-story/6f45018ba0568aa2092cb4c656c9b37b|work=News.com.au|date=11 March 2016|accessdate=15 March 2016}}</ref> This is also the largest audience the venue has seen since the [[2000 Summer Olympics|2000 Sydney Olympics]], breaking Taylor Swift's 2015 record of 75,980 audience members.<ref>{{cite web|author=McCabe, Kathy|title=Adele blitzes the box office record for concerts at ANZ Stadium with 190,000 fans for two concerts|url=http://www.news.com.au/entertainment/music/adele-blitzes-the-box-office-record-for-concerts-at-anz-stadium-with-190000-fans-for-two-concerts/news-story/b13dc0e093c2be34694db14640f8ea40|work=News.com.au|date=10 March 2016|accessdate=15 March 2016}}</ref> The show was so packed that it caused huge public transport delays all around the city and both shows were delayed by up to 45 minutes to allow attendees more time to arrive at the concert.<ref>{{cite web|author1=Friedlander, Monique|author2=Foster, Charlotte|title=Hello (at last)! Adele forced to delay her Sydney concert for 45 minutes after transport chaos left thousands stranded  and the 95,000-capacity stadium two-thirds EMPTY as she was due to start |url=http://www.dailymail.co.uk/tvshowbiz/article-4300376/Adele-concertgoers-left-stranded-Sydney-train-stations.html|work=Daily Mail Australia|date=10 March 2016|accessdate=15 March 2016}}</ref>
+
+== Critical reception ==
+
+=== Opening night ===
+[[File:Adele Live 2016 tour.jpeg|right|thumb|250px|right|Adele at the [[Genting Arena]], March 2016]]
+The UK tour received mostly very positive reviews. Bernadette McNulty of ''[[The Daily Telegraph]]'' gave the opening show at [[Odyssey (Belfast)|The SSE Arena Belfast]] five stars. She referenced the expensive secondary market ticket prices for the tour, saying that "Adele is worth every penny". McNulty states that "Adele undoubtedly has the popularity to fill endless arenas, but maintaining the attention of thousands of people used to the hi-tech extravaganzas laid on by the likes of [[Taylor Swift]] and [[Beyoncé]] can demand more flashing lights, dance routines and hydraulics than any natural talent. Her entrance was certainly theatrical, emerging from the centre of the arena underneath a main stage flanked by an Orwellian projection of her giant eyes blinking. But between that and some virtual, or possibly in Belfast real, rain, Adele kept it remarkably and effectively simple, letting nothing get in the way of what was almost a religious communion with her fans."<ref>{{cite web|url=https://www.telegraph.co.uk/music/what-to-listen-to/adele-uk-tour-sse-belfast-review/|title=Adele proves she's worth every penny: review|work=Telegraph}}</ref> ''[[BBC News]]'' music reporter Mark Savage said that "Adele enjoyed a rapturous reception as she opened her world tour with an intimate arena show in [[Belfast]]."
+
+Continuing his positive review, he said "even the steeliest of hearts would have been forced to concede she had brought the goods."<ref>{{cite web|url=https://www.bbc.co.uk/news/entertainment-arts-35690996|title=Adele review: Pop's biggest star opens world tour in Belfast|work=BBC News}}</ref> Amanda Ferguson from the ''[[Belfast Telegraph]]'' said that "Adele is fun, charismatic and exceptionally talented" in her four star review.<ref>{{cite web|url=http://www.belfasttelegraph.co.uk/entertainment/music/reviews/adele-in-belfast-review-down-to-earth-yet-out-of-this-world-class-act-thrills-sse-arena-34500544.html|title=Adele in Belfast review: Down to earth yet out of this world, class act thrills SSE Arena}}</ref> Alexis Petridis of ''[[The Guardian]]'' opened his review by saying that Adele "delivers a solid - if unsurprising - show on the first night of her tour". In his four star review, Petridis noted Adele saying "I know some of you have been dragged along here tonight but I'm going to win you over", before concluding that "judging by the reaction as she finally disappears - on the same platform on which she appeared - she has managed it."<ref>{{cite web|url=https://www.theguardian.com/music/2016/feb/29/adele-review-a-lesson-in-control-from-the-end-of-the-pier|title=Adele review - a lesson in control from the end of the pier|work=The Guardian}}</ref> Nick Hasted of ''[[The Independent]]'' gave the show three stars, saying that "she tries soul moves over gospel piano, but owes more to [[Shirley Bassey]] than [[Aretha Franklin|Aretha]]". Giving a mostly positive review, Hasted concluded the review by saying "Adele needs the nerve to make a defining leap, to become the bawdy, ballsy person she is on stage when she writes. Pop is dying for it."<ref>{{cite web|url=https://www.independent.co.uk/arts-entertainment/music/reviews/adele-live-review-a-grateful-music-industry-s-remaining-force-is-with-british-singer-a6904411.html|title=Adele, SSE Arena, Belfast, review: Grateful music industry's remaining Force is with British singer|work=The Independent}}</ref>
+
+=== The O<sub>2</sub> Arena===
+[[File:Adele Sings Set Fire to the Rain Genting Arena March 2016.jpg|thumb|right|200px|Adele sings "[[Set Fire to the Rain]]" at the [[Genting Arena]], March 2016]]
+The critical response was overwhelmingly positive when Adele performed six shows at [[The O2 Arena|The O<sub>2</sub> Arena]] in her hometown, London. ''[[The Huffington Post]]''{{'}}s Ashley Percival gave one of the shows five stars: "By her own admission, most of her back catalogue is "fucking miserable", and I questioned quite how the [[Tottenham]]-born songstress would hold the attention of the packed O<sub>2</sub> Arena without being able to rely on exhaustive dance routines or belting out some pop bangers to boost the energy. But the second she emerged through the floor of a small B-stage uttering those immortal words "Hello, it's me", any concerns just evaporated&amp;nbsp;— every single person in the room was in complete awe, and would stay that way for the entirety of the 18-song set."<ref>{{cite web|url=http://www.huffingtonpost.co.uk/entry/adele-live-2016-tour-review-london-o2-arena_uk_56ef0c24e4b030d552ef70d3|title=Adele Live 2016 Tour Review: 'A Night of Pure and Utter Class'|work=The Huffington Post}}</ref> David Smyth from the ''[[London Evening Standard]]'' said that "Adele shifted constantly from being a lightning rod for emotion to a light entertainer" in his four star review. He also complimented the show's opening performance of "[[Hello (Adele song)|Hello]]", saying that "isolated, with her large band hidden behind the screen, [Adele] held the room without trickery&amp;nbsp;— just one of the great singing voices."<ref>{{cite web|url=https://www.standard.co.uk/goingout/music/adele-tour-review-mesmerising-return-from-one-of-the-greatest-voices-and-entertainers-a3204621.html|title=Adele, tour review: Mesmerising return from one of the greatest voices and entertainers|work=Evening Standard}}</ref> Ludovic Hunter-Tilney from the ''[[Financial Times]]'' stated in his four star review that the show "had an old-school air of professionalism, sumptuously mounted and impeccably rehearsed." Hunter-Tilney also said that "Flashy special effects were kept to a minimum, such as the downfall of water that surrounded her for "[[Set Fire to the Rain]]" towards the end. The absence of high-tech arena spectacle helped the show. It allowed Adele's personality to gain the upper hand over her professionalism."<ref>{{cite web|url=http://www.ft.com/cms/s/2/e089e53a-eb61-11e5-bb79-2303682345c8.html|title=Adele, O2 Arena, London - "Both regimented and spontaneous"|work=Financial Times}}</ref>
+
+=== Genting Arena ===
+Adele performed in the [[Genting Arena]], Birmingham on 29, 30 March and 1, 2 April 2016 in a performance described as "mesmerizing", "jaw-dropping" and "breath-taking".<ref>{{cite news | url=http://www.birminghammail.co.uk/whats-on/music-nightlife-news/six-superb-things-adele-birminghams-11110746 | title=Six superb things Adele did at Birmingham's Genting Arena | work=Birmingham Mail | date=30 March 2016 | accessdate=4 April 2016 | author=Beardsmore, Luke}}</ref><ref>{{cite web|url=http://www.gentingarena.co.uk/whats-on/adele/adele-review|title=We're SO Not Over Adele|publisher=|accessdate=18 March 2017}}</ref>
+
+=== Staples Center===
+''[[Billboard (magazine)|Billboard]]'''s Chris Willman took aim at previous reviewers of the tour who had criticised Adele for speaking too much during the concert in his positive review of the opening night of her stint at Los Angeles' [[Staples Center]]. He said "A few critics at the earliest stops on her first U.S. arena tour have made "shut up and sing"-type suggestions… a would-be corrective measure that's unlikely to be wished for by almost any of her actual fans, who surely recognize that they're in the presence of not just one of the great singers in pop history, but one of the great ''broads''." <ref>{{cite web | url=http://www.billboard.com/articles/news/7461824/adele-tour-staples-los-angeles-concert-recap | title=Adele mixes Heartbreak with Huge Laughs in Opening of L.A. Eight-Night Stand | work=Billboard | date=8 August 2016 | accessdate=12 November 2017 | author=Willman, Chris}}</ref>
+
+=== Domain Stadium ===
+Adele's first performance in Australia at the [[Subiaco Oval|Domain Stadium]] in [[Perth]] was met with universally positive reviews. Heather McNeill of ''[[The Sydney Morning Herald]]'' said Adele "was noticeably humbled by the massive crowd [the largest in West Australian concert history], admitting in her first many witty and warm chats with fans that she was a bit nervous." She named "I'll Be Waiting", "[[Rumour Has It (Adele song)|Rumour Has It]]" and "[[Water Under the Bridge (song)|Water Under the Bridge]]" as highlights calling them "flawless" and "soulful", as well as "Sweetest Devotion" and "Take It All". McNeill gave the concert five stars.<ref>{{cite web|url=http://www.smh.com.au/entertainment/music/adele-opens-first-australian-tour-with-flawless-perth-performance-20170228-gunmhn.html|title=Review: Adele opens first Australian tour with flawless Perth performance|work=Sydney Morning Herald | date=1 March 2017 | author=McNeill, Heather}}</ref> Simon Collins of ''[[The West Australian]]'' gave the concert four stars, claiming that "for many people, Adele's first ever Australian show and first ever stadium concert will be the best they have ever seen." He said that whilst "for many people, this was a five-star concert", for him "not so much...but like all that confetti after the show, I've been swept up in Adele fever." He concluded that "the once-in-a-generation artist and unique, yet down-to-earth, personality had left Perth fans both starstruck and with a brand new bestie." <ref>{{cite web|url=https://thewest.com.au/entertainment/music-reviews/concert-review-all-hail-queen-adele-ng-b88400324z|title=Concert review: All hail, Queen Adele|work=West Australian|date=1 March 2017|author=Collins, Simon}}</ref> In a review for ''[[The Guardian]]'', Bob Gordon claims that "Perth was entranced and besotted by Adele a full 48 hours before her show" so that  "by showtime, gridlock or not, Perth was fit to pop." <ref>{{cite web|url=https://www.theguardian.com/music/2017/mar/01/adeles-first-australian-show-review-perth-succumbs-to-charm-and-glory|title=Adele's first Australian show review - Perth succumbs to charm and glory|work=The Guardian|date=28 February 2017|author=Gordon, Bob}}</ref>
+
+== Set list ==
+This set list is representative of 29 February 2016 concert, in Belfast.<ref>{{cite web|last=Savage|first=Mark|url=https://www.bbc.co.uk/news/entertainment-arts-35690996|title=Adele review: Pop's biggest star opens world tour in Belfast|work=[[BBC]]}}</ref> It may not representative of all concerts of the duration of the 2016 tour.
+{{div col|colwidth=30em}}
+# "[[Hello (Adele song)|Hello]]"
+# "[[Hometown Glory]]"
+# "One and Only"
+# "[[Rumour Has It (Adele song)|Rumour Has It]]"
+# "[[Water Under the Bridge (song)|Water Under the Bridge]]"
+# "I Miss You"
+# "[[Skyfall (Adele song)|Skyfall]]"
+# "[[Million Years Ago (song)|Million Years Ago]]"
+# "Don't You Remember"
+# "[[Send My Love (To Your New Lover)]]"
+# "[[Make You Feel My Love#Adele version|Make You Feel My Love]]"
+# "[[Sweetest Devotion (song)|Sweetest Devotion]]"
+# "[[Chasing Pavements]]"
+# "[[Someone Like You (Adele song)|Someone Like You]]"
+# "[[Set Fire to the Rain]]"
+'''Encore'''
+#<li value="16"> "[[All I Ask (Adele song)|All I Ask]]"
+# "[[When We Were Young (Adele song)|When We Were Young]]"
+# "[[Rolling in the Deep]]"
+{{div col end}}
+
+{{hidden
+| headercss = background: #ccccff; font-size: 100%; width: 100%;
+| contentcss = text-align: left; font-size: 100%; width: 75%;
+| header = Glastonbury Festival<ref>{{cite web|last=McCreesh|first=Louise|url=http://www.digitalspy.com/music/glastonbury-festival/news/a799151/glastonbury-adele-headline-set-takes-over-main-stage/|title=Glastonbury 2016: Adele takes over main stage (and the internet. And the world) in emotional headline set|work=Digital Spy}}</ref>
+|content = The set list at [[Glastonbury Festival]] was:
+
+{{div col|colwidth=30em}}
+#"Hello"
+#"Rumour Has It"
+#"I'll Be Waiting"
+#"One and Only"
+#"Water Under the Bridge"
+#"Skyfall"
+#"Hometown Glory"
+#"Don't You Remember"
+#"Send My Love (To Your New Lover)"
+#"River Lea" <small>(Live debut)</small>
+#"Rolling in the Deep"
+#"Make You Feel My Love"
+#"Set Fire to the Rain"
+'''Encore:'''
+#<li value="14"> "When We Were Young"
+#<li value="15">"Someone Like You"
+{{div col end}}
+}}
+
+{{hidden
+| headercss = background: #ccccff; font-size: 100%; width: 100%;
+| contentcss = text-align: left; font-size: 100%; width: 75%;
+| header = [[Adele Live 2017]]
+|content = The set list for [[Adele Live 2017]] shows was:
+
+{{div col|colwidth=30em}}
+#"[[Hello]]"
+#"[[Hometown Glory]]"
+#"One and Only"
+#"I'll Be Waiting"
+#"[[Rumour Has It (Adele song)|Rumour Has It]]"
+#"[[Water Under the Bridge (song)|Water Under the Bridge]]"
+#"I Miss You"
+#"[[Skyfall]]"
+#"Don't You Remember"
+#"[[Make You Feel My Love]]"
+#"[[Send My Love (To Your New Lover)]]"
+#"Sweetest Devotion"
+#"[[Chasing Pavements]]"
+#"Take It All"
+#"[[Set Fire to the Rain]]"
+'''Encore:'''
+#<li value="16"> "[[When We Were Young (Adele song)|When We Were Young]]"
+#<li value="17">"[[Rolling In The Deep]]"
+#<li value="18">"[[Someone like You (Adele song)|Someone Like You]]"
+{{div col end}}
+}}
+
+== Shows ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of concerts, showing date, city, country, venue, tickets sold, amount of available tickets, and gross revenue
+
+! scope="col" style="width:12em;"| Date
+! scope="col" style="width:10em;"| City
+! scope="col" style="width:10em;"| Country
+! scope="col" style="width:16em;"| Venue
+! scope="col" style="width:10em;"| Attendance
+! scope="col" style="width:10em;"| Revenue
+|-
+! colspan="6" | Leg 1 – Europe<ref name="Tour dates">{{cite web |url=http://live.adele.com/ |title=Adele Live 2016 |date=26 November 2015 |accessdate=26 November 2015}}</ref><ref>Box score:
+*{{cite web|url=http://www.billboard.com/biz/current-boxscore|title=Billboard Boxscore :: Current Scores|date=22 March 2016 |work=Billboard|archiveurl=https://www.webcitation.org/6gDppJOwC?url=http://www.billboard.com/biz/current-boxscore|archivedate=22 March 2016|accessdate=23 March 2016}}
+*{{cite web|url=http://www.billboard.com/biz/current-boxscore|title=Billboard Boxscore :: Current Scores|date=27 April 2016 |work=Billboard|archiveurl=https://www.webcitation.org/6h59vK2Cz?url=http://www.billboard.com/biz/current-boxscore|archivedate=27 April 2016|accessdate=23 October 2016}}
+*{{cite web|url=http://www.pollstarpro.com/files/Charts2016/2016MidYearTop100WorldwideConcertGrosses.pdf|title=Pollstar: 2016 Mid Year Special Features - Top 100 Concert Grosses|date=15 July 2016|accessdate=17 July 2016}}
+*{{cite web|url=http://www.pollstarpro.com/files/Charts2016/2016MidYearTop100WorldwideConcertGrosses.pdf |title=Pollstar: 2016 Mid Year Top 100 Worldwide Concert Grosses|date=13 August 2016 |accessdate=15 August 2016}}
+*{{cite web|url=http://www.billboard.com/biz/current-boxscore|title=Billboard Boxscore :: Current Scores|date=28 October 2016 |work=Billboard|archiveurl=https://web.archive.org/web/20161028083810/http://www.billboard.com/biz/current-boxscore|archivedate=28 October 2016|accessdate=2 November 2016}}</ref>
+|-
+! scope="row" style="text-align:center;" | 29 February 2016
+|rowspan="2"|[[Belfast]]
+|rowspan="2"|[[Northern Ireland]]
+|rowspan="2"|[[Odyssey (Belfast)|SSE Arena]]
+|rowspan="2"| 21,593 / 21,593
+|rowspan="2"| $2,326,160
+|-
+! scope="row" style="text-align:center;" | 1 March 2016
+|-
+! scope="row" style="text-align:center;" | 4 March 2016
+|rowspan="2"|[[Dublin]]
+|rowspan="2"|[[Republic of Ireland|Ireland]]
+|rowspan="2"|[[3Arena]]
+|rowspan="2"| 25,290 / 25,290
+|rowspan="2"| $2,617,060
+|-
+! scope="row" style="text-align:center;" | 5 March 2016
+|-
+! scope="row" style="text-align:center;" | 7 March 2016
+|rowspan="4"|[[Manchester]]
+|rowspan="10"|England
+|rowspan="4"|[[Manchester Arena]]
+|rowspan="4"| 63,209 / 63,209
+|rowspan="4"| $7,243,160
+|-
+! scope="row" style="text-align:center;" | 8 March 2016
+|-
+! scope="row" style="text-align:center;" | 10 March 2016
+|-
+! scope="row" style="text-align:center;" | 11 March 2016
+|-
+! scope="row" style="text-align:center;" | 15 March 2016
+|rowspan="6"|London
+|rowspan="6"|[[The O2 Arena|The O<sub>2</sub> Arena]]
+|rowspan="6"| 126,043 / 126,043{{efn|name=London|The score data is combined from the shows held at [[The O2 Arena|The O<sub>2</sub> Arena]] from 15, 16, 18, 19, 21, 22 March &amp; 4, 5 April 2016 respectively.}}
+|rowspan="6"| $14,759,300{{efn|name=London}}
+|-
+! scope="row" style="text-align:center;" | 16 March 2016
+|-
+! scope="row" style="text-align:center;" | 18 March 2016
+|-
+! scope="row" style="text-align:center;" | 19 March 2016
+|-
+! scope="row" style="text-align:center;" | 21 March 2016
+|-
+! scope="row" style="text-align:center;" | 22 March 2016
+|-
+! scope="row" style="text-align:center;" | 25 March 2016
+|rowspan="2"|[[Glasgow]]
+|rowspan="2"|Scotland
+|rowspan="2"|[[SSE Hydro]]
+|rowspan="2"| 22,292 / 22,292
+|rowspan="2"| $2,410,390
+|-
+! scope="row" style="text-align:center;" |26 March 2016
+|-
+! scope="row" style="text-align:center;" | 29 March 2016
+|rowspan="4"|[[Birmingham]]
+|rowspan="6"|England
+|rowspan="4"|[[Genting Arena]]
+|rowspan="4"| 52,562 / 52,562
+|rowspan="4"| $6,426,580
+|-
+! scope="row" style="text-align:center;" | 30 March 2016
+|-
+! scope="row" style="text-align:center;" | 1 April 2016
+|-
+! scope="row" style="text-align:center;" | 2 April 2016
+|-
+! scope="row" style="text-align:center;" | 4 April 2016
+|rowspan="2"|London
+|rowspan="2"|The O<sub>2</sub> Arena
+|rowspan="2"| {{efn|name=London}}
+|rowspan="2"| {{efn|name=London}}
+|-
+! scope="row" style="text-align:center;" | 5 April 2016
+|-
+! scope="row" style="text-align:center;" | 29 April 2016
+|[[Stockholm]]
+|Sweden
+|[[Tele2 Arena]]
+| 30,772 / 30,772
+| $2,406,130
+|-
+! scope="row" style="text-align:center;" | 1 May 2016
+|[[Oslo]]
+|Norway
+|[[Telenor Arena]]
+| 21,005 / 21,005
+| $1,785,430
+|-
+! scope="row" style="text-align:center;" | 3 May 2016
+|[[Copenhagen]]
+|rowspan="2"|Denmark
+|[[Forum Copenhagen]]
+| 9,907 / 9,907
+| $1,146,490
+|-
+! scope="row" style="text-align:center;" | 4 May 2016
+|[[Herning]]
+|[[Jyske Bank Boxen]]
+| 12,123 / 12,123
+| $1,430,260
+|-
+! scope="row" style="text-align:center;" | 7 May 2016
+|rowspan="2"|Berlin
+|rowspan="6"|Germany
+|rowspan="2"|[[Mercedes-Benz Arena (Berlin)|Mercedes-Benz Arena]]
+|rowspan="2"| 23,798 / 23,798
+|rowspan="2"| $2,319,340
+|-
+! scope="row" style="text-align:center;" | 8 May 2016
+|-
+! scope="row" style="text-align:center;" | 10 May 2016
+|rowspan="2"|[[Hamburg]]
+|rowspan="2"|[[Barclaycard Arena (Hamburg)|Barclaycard Arena]]
+|rowspan="2"| 23,267 / 23,267
+|rowspan="2"| $2,343,370
+|-
+! scope="row" style="text-align:center;" | 11 May 2016
+|-
+! scope="row" style="text-align:center;" | 14 May 2016
+|rowspan="2"|[[Cologne]]
+|rowspan="2"|[[Lanxess Arena]]
+|rowspan="2"| 29,119 / 29,119
+|rowspan="2"| $2,734,650
+|-
+! scope="row" style="text-align:center;" | 15 May 2016
+|-
+! scope="row" style="text-align:center;" | 17 May 2016
+|rowspan="2"| [[Zürich]]
+|rowspan="2"| Switzerland
+|rowspan="2"| [[Hallenstadion]]
+|rowspan="2"| 26,480 / 26,480
+|rowspan="2"| $2,730,090
+|-
+! scope="row" style="text-align:center;" | 18 May 2016
+|-
+! scope="row" style="text-align:center;" |21 May 2016
+|rowspan="2"|[[Lisbon]]
+|rowspan="2"|Portugal
+|rowspan="2"|[[MEO Arena]]
+|rowspan="2"| 36,081 / 36,081
+|rowspan="2"| $2,692,990
+|-
+! scope="row" style="text-align:center;" | 22 May 2016
+|-
+! scope="row" style="text-align:center;" | 24 May 2016
+|rowspan="2"|[[Barcelona]]
+|rowspan="2"|Spain
+|rowspan="2"|[[Palau Sant Jordi]]
+|rowspan="2"| 31,075 / 31,075
+|rowspan="2"| $2,858,760
+|-
+! scope="row" style="text-align:center;" | 25 May 2016
+|-
+! scope="row" style="text-align:center;" | 28 May 2016
+|rowspan="2"|[[Verona]]
+|rowspan="2"|Italy
+|rowspan="2"|[[Verona Arena|Arena di Verona]]
+|rowspan="2"| 25,512 / 25,512
+|rowspan="2"| $2,008,990
+|-
+! scope="row" style="text-align:center;" | 29 May 2016
+|-
+! scope="row" style="text-align:center;" | 1 June 2016
+|rowspan="4"|[[Amsterdam]]
+|rowspan="4"|Netherlands
+|rowspan="4"|[[Ziggo Dome]]
+|rowspan="4"| 51,777 / 51,777
+|rowspan="4"| $4,810,120
+|-
+! scope="row" style="text-align:center;" | 3 June 2016
+|-
+! scope="row" style="text-align:center;" | 4 June 2016
+|-
+! scope="row" style="text-align:center;" | 6 June 2016
+|-
+! scope="row" style="text-align:center;" | 9 June 2016
+|rowspan="2"|Paris
+|rowspan="2"|France
+|rowspan="2"|[[AccorHotels Arena]]
+|rowspan="2"| 26,113 / 26,113
+|rowspan="2"| $2,798,970
+|-
+! scope="row" style="text-align:center;" | 10 June 2016
+|-
+! scope="row" style="text-align:center;" | 12 June 2016
+|rowspan="3"| [[Antwerp]]
+|rowspan="3"|Belgium
+|rowspan="3"|[[Sportpaleis]]
+|rowspan="3"| 52,130 / 52,130
+|rowspan="3"| $5,713,100
+|-
+! scope="row" style="text-align:center;" | 13 June 2016
+|-
+! scope="row" style="text-align:center;" | 15 June 2016
+|-
+! scope="row" style="text-align:center;" | 25 June 2016{{efn|The concert of 25 June 2016 in Pilton, England at Worthy Farm is a part of [[Glastonbury Festival]].<ref>{{cite web |url=http://www.nme.com/news/glastonbury/94626 |title=Adele |last1= |first1= |last2= |first2= |date=28 June 2016 |website= |publisher= |accessdate=28 June 2016}}</ref>}}	
+|[[Pilton, Somerset|Pilton]]
+|England
+|[[Glastonbury Festival|Worthy Farm]]
+|{{n/a}}
+|{{n/a}}
+|-
+! colspan="6" | Leg 2 – North America<ref name="Tour dates"/><ref>Box score:
+*{{cite web|url=http://www.billboard.com/biz/current-boxscore|title=Billboard Boxscore :: Current Scores|date=19 October 2016|work=Billboard|archiveurl=https://www.webcitation.org/6lNUBYto9?url=http://www.billboard.com/biz/current-boxscore|archivedate=19 October 2016|accessdate=23 October 2016}}
+*{{cite web|url=http://www.billboard.com/biz/current-boxscore|title=Billboard Boxscore :: Current Scores|work=Billboard|archiveurl=https://www.webcitation.org/6m5WbzkoR?url=http://www.billboard.com/biz/current-boxscore|archivedate=17 November 2016|accessdate=26 May 2017|dead-url=no|df=dmy-all}}</ref>
+|-
+! scope="row" style="text-align:center;" | 5 July 2016
+|rowspan="2"|[[Saint Paul, Minnesota|Saint Paul]]
+|rowspan="7"|United States
+|rowspan="2"|[[Xcel Energy Center]]
+|rowspan="2"| 30,685 / 30,685
+|rowspan="2"| $3,376,247
+|-
+! scope="row" style="text-align:center;" | 6 July 2016
+|-
+! scope="row" style="text-align:center;" | 10 July 2016
+|rowspan="3"|Chicago
+|rowspan="3"|[[United Center]]
+|rowspan="3"| 45,635 / 45,635
+|rowspan="3"| $5,074,208
+|-
+! scope="row" style="text-align:center;" | 11 July 2016
+|-
+! scope="row" style="text-align:center;" | 13 July 2016
+|-
+! scope="row" style="text-align:center;" | 16 July 2016
+|rowspan="2"|[[Denver]]
+|rowspan="2"|[[Pepsi Center]]
+|rowspan="2"| 27,313 / 27,313
+|rowspan="2"| $2,999,334
+|-
+! scope="row" style="text-align:center;" | 17 July 2016
+|-
+! scope="row" style="text-align:center;" | 20 July 2016
+|rowspan="2"|Vancouver
+|rowspan="2"|Canada
+|rowspan="2"|[[Rogers Arena]]
+|rowspan="2"| 28,959 / 28,959
+|rowspan="2"| $3,238,209
+|-
+! scope="row" style="text-align:center;" | 21 July 2016
+|-
+! scope="row" style="text-align:center;" | 25 July 2016
+|rowspan="2"|[[Seattle]]
+|rowspan="26"|United States
+|rowspan="2"|[[KeyArena]]
+|rowspan="2"| 25,003 / 25,003
+|rowspan="2"| $2,890,817
+|-
+! scope="row" style="text-align:center;" | 26 July 2016
+|-
+! scope="row" style="text-align:center;" | 30 July 2016
+|rowspan="2"|[[San Jose, California|San Jose]]
+|rowspan="2"|[[SAP Center]]
+|rowspan="2"| 28,002 / 28,002
+|rowspan="2"| $3,224,583
+|-
+! scope="row" style="text-align:center;" | 31 July 2016
+|-
+! scope="row" style="text-align:center;" | 2 August 2016
+|[[Oakland, California|Oakland]]
+|[[Oracle Arena]]
+| 14,577 / 14,577
+| $1,722,672
+|-
+! scope="row" style="text-align:center;" | 5 August 2016
+|rowspan="6"|Los Angeles
+|rowspan="6"|[[Staples Center]]
+|rowspan="6"| 118,149 / 118,149{{efn|name=Los Angeles|The score data is combined from the shows held at the [[Staples Center]] from 5, 6, 9, 10, 12, 13, 20, 21 August 2016 respectively.}}
+|rowspan="6"| $13,821,741{{efn|name=Los Angeles}}
+|-
+! scope="row" style="text-align:center;" | 6 August 2016
+|-
+! scope="row" style="text-align:center;" | 9 August 2016
+|-
+! scope="row" style="text-align:center;" | 10 August 2016
+|-
+! scope="row" style="text-align:center;" | 12 August 2016
+|-
+! scope="row" style="text-align:center;" | 13 August 2016
+|-
+! scope="row" style="text-align:center;" | 16 August 2016
+|[[Phoenix, Arizona|Phoenix]]
+|[[Talking Stick Resort Arena]]
+| 14,166 / 14,166
+| $1,573,459
+|-
+! scope="row" style="text-align:center;" | 20 August 2016
+|rowspan="2"|Los Angeles
+|rowspan="2"|Staples Center
+|rowspan="2"| {{efn|name=Los Angeles}}
+|rowspan="2"| {{efn|name=Los Angeles}}
+|-
+! scope="row" style="text-align:center;" | 21 August 2016
+|-
+! scope="row" style="text-align:center;" | 6 September 2016
+|rowspan="2"|[[Auburn Hills, Michigan|Auburn Hills]]
+|rowspan="2"|[[The Palace of Auburn Hills]]
+|rowspan="2"| 28,812 / 28,812
+|rowspan="2"| $3,007,199
+|-
+! scope="row" style="text-align:center;" | 7 September 2016
+|-
+! scope="row" style="text-align:center;" | 9 September 2016
+|rowspan="2"|[[Philadelphia]]
+|rowspan="2"|[[Wells Fargo Center (Philadelphia)|Wells Fargo Center]]
+|rowspan="2"| 31,251 / 31,251
+|rowspan="2"| $3,698,133
+|-
+! scope="row" style="text-align:center;" | 10 September 2016
+|-
+! scope="row" style="text-align:center;" | 14 September 2016
+|rowspan="2"|[[Boston]]
+|rowspan="2"|[[TD Garden]]
+|rowspan="2"| 27,183 / 27,183
+|rowspan="2"| $3,022,975
+|-
+! scope="row" style="text-align:center;" | 15 September 2016
+|-
+! scope="row" style="text-align:center;" | 19 September 2016
+|rowspan="6"|New York City
+|rowspan="6"|[[Madison Square Garden]]
+|rowspan="6"| 86,652 / 86,652
+|rowspan="6"| $9,829,597
+|-
+! scope="row" style="text-align:center;" | 20 September 2016
+|-
+! scope="row" style="text-align:center;" | 22 September 2016
+|-
+! scope="row" style="text-align:center;" | 23 September 2016
+|-
+! scope="row" style="text-align:center;" | 25 September 2016
+|-
+! scope="row" style="text-align:center;" | 26 September 2016
+|-
+! scope="row" style="text-align:center;" | 30 September 2016
+|rowspan="2"|[[Montreal]]
+|rowspan="6"|Canada
+|rowspan="2"|[[Bell Centre]]
+|rowspan="2"| 32,155 / 32,155
+|rowspan="2"| $3,370,793
+|-
+! scope="row" style="text-align:center;" | 1 October 2016
+|-
+! scope="row" style="text-align:center;" | 3 October 2016
+|rowspan="4"|Toronto
+|rowspan="4"|[[Air Canada Centre]]
+|rowspan="4"| 62,653 / 62,653
+|rowspan="4"| $6,749,131
+|-
+! scope="row" style="text-align:center;" | 4 October 2016
+|-
+! scope="row" style="text-align:center;" | 6 October 2016
+|-
+! scope="row" style="text-align:center;" | 7 October 2016
+|-
+! scope="row" style="text-align:center;" | 10 October 2016
+|rowspan="2"|[[Washington, D.C.]]
+|rowspan="14"|United States
+|rowspan="2"|[[Verizon Center]]
+|rowspan="2"| 29,043 / 29,043
+|rowspan="2"| $3,279,706
+|-
+! scope="row" style="text-align:center;" | 11 October 2016
+|-
+! scope="row" style="text-align:center;" | 15 October 2016
+|rowspan="2"|[[Nashville, Tennessee|Nashville]]
+|rowspan="2"|[[Bridgestone Arena]]
+|rowspan="2"| 26,434 / 26,434
+|rowspan="2"| $2,828,954
+|-
+! scope="row" style="text-align:center;" | 16 October 2016
+|-
+! scope="row" style="text-align:center;" | 25 October 2016
+|rowspan="2"|[[Miami]]
+|rowspan="2"|[[American Airlines Arena]]
+|rowspan="2"| 27,906 / 27,906
+|rowspan="2"| $3,199,011
+|-
+! scope="row" style="text-align:center;" | 26 October 2016
+|-
+! scope="row" style="text-align:center;" | 28 October 2016
+|rowspan="2"|[[Atlanta]]
+|rowspan="2"|[[Philips Arena]]
+|rowspan="2"| 26,507 / 26,507
+|rowspan="2"| $2,924,777
+|-
+! scope="row" style="text-align:center;" | 29 October 2016
+|-
+! scope="row" style="text-align:center;" | 1 November 2016
+|rowspan="2"|[[Dallas]]
+|rowspan="2"|[[American Airlines Center]]
+|rowspan="2"| 27,823 /27,823
+|rowspan="2"| $3,143,958	
+|-
+! scope="row" style="text-align:center;" | 2 November 2016
+|-
+! scope="row" style="text-align:center;" | 4 November 2016
+|rowspan="2"|[[Austin, Texas|Austin]]
+|rowspan="2"|[[Frank Erwin Center]]
+|rowspan="2"| 25,267 / 25,267
+|rowspan="2"| $2,725,292
+|-
+! scope="row" style="text-align:center;" | 5 November 2016
+|-
+! scope="row" style="text-align:center;" | 8 November 2016
+|rowspan="2"|[[Houston]]
+|rowspan="2"|[[Toyota Center]]
+|rowspan="2"| 25,577 / 25,577
+|rowspan="2"| $3,032,246
+|-
+! scope="row" style="text-align:center;" | 9 November 2016
+|-
+! scope="row" style="text-align:center;" | 14 November 2016
+|rowspan="2"|Mexico City
+|rowspan="2"|Mexico
+|rowspan="2"|[[Palacio de los Deportes]]
+|rowspan="2"| 34,585 / 34,585
+|rowspan="2"| $3,259,064
+|-
+! scope="row" style="text-align:center;" | 15 November 2016
+|-
+! scope="row" style="text-align:center;" | 21 November 2016{{efn|The second concert in Phoenix was originally scheduled to take place on 17 August 2016, but was rescheduled due to illness.<ref>{{cite web |url=http://www.billboard.com/articles/columns/pop/7476233/adele-cancels-phoenix-concert-illness-video |title=Adele Cancels Phoenix Concert: 'My Cold Has Gotten the Better of Me'|last=Stutz|first=Colin|date=17 August 2016 |website=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=18 August 2016}}</ref>}}
+|Phoenix
+|United States
+|Talking Stick Resort Arena
+| 14,154 / 14,154
+| $1,445,379
+|-
+! colspan="6" | Leg 3 – Oceania<ref name="Tour dates"/>
+|-
+! scope="row" style="text-align:center;" | 28 February 2017
+|[[Perth]]
+|rowspan="8"|Australia
+|[[Subiaco Oval|Domain Stadium]]
+| rowspan="11" {{n/a}}
+| rowspan="11" {{n/a}}
+|-
+! scope="row" style="text-align:center;" | 4 March 2017
+|rowspan="2"|[[Brisbane]]
+|rowspan="2"|[[The Gabba]]
+|-
+! scope="row" style="text-align:center;" | 5 March 2017
+|-
+! scope="row" style="text-align:center;" | 10 March 2017
+|rowspan="2"|Sydney
+|rowspan="2"|[[Stadium Australia|ANZ Stadium]]
+|-
+! scope="row" style="text-align:center;" | 11 March 2017
+|-
+! scope="row" style="text-align:center;" | 13 March 2017
+|[[Adelaide]]
+|[[Adelaide Oval]]
+|-
+! scope="row" style="text-align:center;" | 18 March 2017
+|rowspan="2"|[[Melbourne]]
+|rowspan="2"|[[Docklands Stadium|Etihad Stadium]]
+|-
+! scope="row" style="text-align:center;" | 19 March 2017
+|-
+! scope="row" style="text-align:center;" | 23 March 2017
+|rowspan="3"|[[Auckland]]
+|rowspan="3"|New Zealand
+|rowspan="3"|[[Mount Smart Stadium]]
+|-
+! scope="row" style="text-align:center;" | 25 March 2017
+|-
+! scope="row" style="text-align:center;" | 26 March 2017
+|-
+! colspan="6" | Leg 4 – England<ref name="Tour dates"/>
+|-
+! scope="row" style="text-align:center;" | 28 June 2017
+|rowspan="2"|London
+|rowspan="2"|England
+|rowspan="2"|[[Wembley Stadium]]
+|rowspan="2" {{n/a}}
+|rowspan="2" {{n/a}}
+|-
+! scope="row" style="text-align:center;" | 29 June 2017
+|-
+!colspan="4"| Total
+!1,548,639 / 1,548,639<br />(100%)
+!$166,978,825
+|}
+
+==Cancelled shows==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of cancelled concerts, showing date, city, country, and venue
+|-
+
+! scope="col" style="width:12em;"| Date
+! scope="col" style="width:10em;"| City
+! scope="col" style="width:10em;"| Country
+! scope="col" style="width:16em;"| Venue
+! scope="col" style="width:20em;"| Reason
+|-
+! scope="row" style="text-align:center;" | 1 July 2017
+| rowspan="2"|London
+| rowspan="2"|England
+| rowspan="2"|Wembley Stadium
+| rowspan="2"|Damaged vocal cords<ref name="variety.com"/>
+|-
+! scope="row" style="text-align:center;" | 2 July 2017
+|}
+
+== Personnel ==
+*Adele – vocals
+*Tim Van Der Kuil – guitars &amp; musical director
+*[[Amanda Brown (singer)|Amanda Brown]] – backing vocals
+*Martine Celisca – backing vocals
+*Katie Holmes-Smith – backing vocals
+*Ben Thomas – guitars
+*Aaron Draper – percussion
+*Peter Randall – bass guitars
+*Eric Wortham II – piano &amp; keyboards
+*Derrick Wright – drums
+*Rosie Danvers – cello, leader of the Wired Strings &amp; horns
+*Wired Strings – strings
+
+===Notes===
+{{notelist}}
+
+== References ==
+{{Reflist|30em}}
+
+==External links==
+*{{Official website|http://live.adele.com/}}
+
+{{Adele}}
+
+[[Category:2016 concert tours]]
+[[Category:2017 concert tours]]
+[[Category:Adele concert tours]]
+[[Category:Concert tours of Europe]]
+[[Category:Concert tours of the United Kingdom]]
+[[Category:Concert tours of France]]
+[[Category:Concert tours of Germany]]
+[[Category:Concert tours of Ireland]]
+[[Category:Concert tours of North America]]
+[[Category:Concert tours of the United States]]
+[[Category:Concert tours of Canada]]
+[[Category:Concert tours of Mexico]]
+[[Category:Concert tours of Oceania]]
+[[Category:Concert tours of Australia]]
+[[Category:Concert tours of New Zealand]]
