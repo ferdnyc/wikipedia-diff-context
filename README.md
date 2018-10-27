@@ -7,7 +7,7 @@ in comparison to the existing MediaWiki "Difference between revisions" article h
 
 ### Articles currently represented:
 * [List of Asia's Next Top Model contestants](https://en.wikipedia.org/wiki/List_of_Asia%27s_Next_Top_Model_contestants)
-  * [One IP edit](https://en.wikipedia.org/w/index.php?diff=863802120&oldid=863767210&title=List_of_Asia%27s_Next_Top_Model_contestants&diffmode=source)
+  * [One IP edit](https://en.wikipedia.org/w/index.php?diff=863802120&oldid=863767210&title=List_of_Asia%27s_Next_Top_Model_contestants&diffmode=source) (revisions [863767210](https://en.wikipedia.org/w/index.php?oldid=863767210&title=List_of_Asia%27s_Next_Top_Model_contestants) → [863802120](https://en.wikipedia.org/w/index.php?oldid=863802120&title=List_of_Asia%27s_Next_Top_Model_contestants))
 * [Adele Live 2016](https://en.wikipedia.org/wiki/Adele_Live_2016)
-  * [Two edits by an IP user](https://en.wikipedia.org/w/index.php?title=Adele_Live_2016&diff=865009395&oldid=862159570&diffmode=source)
+  * [Two edits by an IP user](https://en.wikipedia.org/w/index.php?title=Adele_Live_2016&diff=865009395&oldid=862159570&diffmode=source) (revisions [862159570](https://en.wikipedia.org/w/index.php?title=Adele_Live_2016&oldid=862159570) → [865009395](https://en.wikipedia.org/w/index.php?title=Adele_Live_2016&oldid=865009395) → [865009668](https://en.wikipedia.org/w/index.php?title=Adele_Live_2016&oldid=865009668))
   
