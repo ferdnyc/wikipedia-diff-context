@@ -21,14 +21,14 @@ Contestants from all over the world of Asian descent are allowed to apply to be 
 !Finish
 !Season
 |-
-|{{flag|Singapore }}
-| Kyla Tan
-| 23
-| {{height|m=1.71}}
+|{{flag|Mongolia }}
+| Sarul Damachika
+| 16
+| {{height|m=1.69}}
 | {{sort|14|14th}}
 | rowspan="14" |[[Asia's Next Top Model (season 1)|Season 1]] 
 |-
-|{{flag|Thailand}}
+|{{flag|India}}
 | {{sortname|Monica|Benjaratjarunun|nolink=1}}
 | 19
 | {{height|m=1.70}}
