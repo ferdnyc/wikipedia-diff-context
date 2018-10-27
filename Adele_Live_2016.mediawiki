@@ -608,30 +608,30 @@ This set list is representative of 29 February 2016 concert, in Belfast.<ref>{{c
 ! scope="row" style="text-align:center;" | 4 March 2017
 |rowspan="2"|[[Brisbane]]
 |rowspan="2"|[[The Gabba]]
-|-
+|50.000 / 50.000
 ! scope="row" style="text-align:center;" | 5 March 2017
 |-
 ! scope="row" style="text-align:center;" | 10 March 2017
 |rowspan="2"|Sydney
 |rowspan="2"|[[Stadium Australia|ANZ Stadium]]
-|-
+|95.500 / 98.500 
 ! scope="row" style="text-align:center;" | 11 March 2017
 |-
 ! scope="row" style="text-align:center;" | 13 March 2017
 |[[Adelaide]]
 |[[Adelaide Oval]]
-|-
+|70.000 / 70.000
 ! scope="row" style="text-align:center;" | 18 March 2017
 |rowspan="2"|[[Melbourne]]
 |rowspan="2"|[[Docklands Stadium|Etihad Stadium]]
-|-
+|70.000 / 70.000
 ! scope="row" style="text-align:center;" | 19 March 2017
 |-
 ! scope="row" style="text-align:center;" | 23 March 2017
 |rowspan="3"|[[Auckland]]
 |rowspan="3"|New Zealand
 |rowspan="3"|[[Mount Smart Stadium]]
-|-
+|45.000 / 45.000 / 45.000
 ! scope="row" style="text-align:center;" | 25 March 2017
 |-
 ! scope="row" style="text-align:center;" | 26 March 2017
@@ -642,8 +642,8 @@ This set list is representative of 29 February 2016 concert, in Belfast.<ref>{{c
 |rowspan="2"|London
 |rowspan="2"|England
 |rowspan="2"|[[Wembley Stadium]]
-|rowspan="2" {{n/a}}
-|rowspan="2" {{n/a}}
+|98.500 / 98.500 
+|$ - 
 |-
 ! scope="row" style="text-align:center;" | 29 June 2017
 |-
